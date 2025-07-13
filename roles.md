@@ -21,7 +21,7 @@
 **🔵 TNE Server Owner** – You're running The New Economy plugin  
 **🟣 QuickShop Server Owner** – You're running QuickShop  
 **🟠 Phantom Worlds Server Owner** – You're running Phantom Worlds (multi-world management)  
-**🗡️ Slayer Server Owner** – You're running the Slayer plugin 
+**🗡️ Slayer Server Owner** – You're running the Slayer plugin   
 **🧊 TheNewKings Server Owner** – You're running TheNewKings (modern factions plugin)  
 **🔷 Vault Unlocked** – You're running VaultUnlocked
 
